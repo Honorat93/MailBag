@@ -1,0 +1,10 @@
+{
+    "smtp": {
+        "host": "localhost", "port": 25,
+        "auth": { "user": "roma@test.fr", "pass": "password"}
+    },
+    "imap": {
+        "host": "localhost", "port": 143,
+        "auth": { "user": "roma@test.fr", "pass": "password"}
+    }
+}
