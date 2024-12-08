@@ -5,7 +5,7 @@ import express, { Express, Request, Response } from "express";
 
 const app: Express = express();
 
-// Middleware pour interpréter le JSON dans les requêtes
+// Middleware pour interpréter le json dans les requêtes
 app.use(express.json());
 
 
