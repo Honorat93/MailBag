@@ -1,4 +1,5 @@
 # Ignorer les node_modules dans le répertoire server
 /server/node_modules/
+/client/node_modules
 
 
