@@ -8,7 +8,7 @@ const MessageList = ({ state }: { state: IState }) => (
         <TableHead>
             <TableRow>
                 <TableCell style={{ width: 120 }}>Date</TableCell>
-                <TableCell style={{ width: 300 }}>De</TableCell>
+                <TableCell style={{ width: 301 }}>De</TableCell>
                 <TableCell>Sujet</TableCell>
             </TableRow>
         </TableHead>
